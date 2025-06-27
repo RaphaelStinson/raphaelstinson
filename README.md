@@ -46,7 +46,6 @@
 
 ![55178cd5d1194ae00347c99aaaa5da9b](https://github.com/user-attachments/assets/22c95bf9-03d5-4d26-9ac0-aa3d09fb5774)
 
-###
 
 <img src="https://raw.githubusercontent.com/RaphaelStinson/RaphaelStinson/output/snake.svg" alt="Snake animation" />
 
