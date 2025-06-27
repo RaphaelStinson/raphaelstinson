@@ -45,3 +45,13 @@
 ###
 
 ![55178cd5d1194ae00347c99aaaa5da9b](https://github.com/user-attachments/assets/22c95bf9-03d5-4d26-9ac0-aa3d09fb5774)
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaphaelStinson/RaphaelStinson/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaphaelStinson/RaphaelStinson/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RaphaelStinson/RaphaelStinson/output/pacman-contribution-graph.svg">
+</picture>
+
+###
