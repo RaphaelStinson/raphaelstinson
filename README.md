@@ -1,47 +1,30 @@
-<h2 align="left">Techs</h2>
+🚀 Tecnologias e Ferramentas
+<!-- Usar um único link da skillicons.dev é mais limpo do que várias tags de imagem -->
 
-###
+<p align="left">
+<a href="https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpy,java,html,js,css,powershell%26perline%3D6" />
+</a>
+</p>
 
-<br clear="both">
+📊 Estatísticas do GitHub
+<!-- Agrupar as imagens em um parágrafo centralizado melhora o alinhamento em diferentes tamanhos de tela -->
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
-</div>
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DRaphaelStinson%26show_icons%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue%26theme%3Ddark%26locale%3Dpt-br%26hide_border%3Dtrue" height="150" alt="Estatísticas do GitHub"/>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3DRaphaelStinson%26locale%3Dpt-br%26layout%3Dcompact%26theme%3Ddark%26hide_border%3Dtrue" height="150" alt="Linguagens mais usadas"/>
+<img src="https://www.google.com/search?q=https://streak-stats.demolab.com%3Fuser%3DRaphaelStinson%26locale%3Dpt-br%26mode%3Ddaily%26theme%3Ddark%26hide_border%3Dtrue%26border_radius%3D5" height="150" alt="Sequência de Contribuições"/>
+</p>
 
-###
+👨‍💻 Gráfico de Contribuições
+<!-- Centralizar o gráfico de atividades para consistência visual -->
 
-<h2 align="left">Stats</h2>
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DRaphaelStinson%26bg_color%3D0d1117%26color%3Dffffff%26line%3D0891b2%26point%3Dffffff%26area%3Dtrue%26hide_border%3Dtrue" height="300" alt="Gráfico de atividades"/>
+</p>
 
-###
+<!-- A imagem final pode servir como um rodapé ou divisor, também centralizada -->
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaphaelStinson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="135" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaphaelStinson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="145" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=RaphaelStinson&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<h2 align="left">Contributions</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaphaelStinson&radius=16&theme=lucent&area=true&order=5&bg_color=0&color=129876" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-![55178cd5d1194ae00347c99aaaa5da9b](https://github.com/user-attachments/assets/22c95bf9-03d5-4d26-9ac0-aa3d09fb5774)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/22c95bf9-03d5-4d26-9ac0-aa3d09fb5774" alt="Divisor" />
+</p>
