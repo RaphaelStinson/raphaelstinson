@@ -11,10 +11,13 @@
 <!-- Agrupar as imagens em um parágrafo centralizado melhora o alinhamento em diferentes tamanhos de tela -->
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DRaphaelStinson%26show_icons%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue%26theme%3Ddark%26locale%3Dpt-br%26hide_border%3Dtrue" height="150" alt="Estatísticas do GitHub"/>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3DRaphaelStinson%26locale%3Dpt-br%26layout%3Dcompact%26theme%3Ddark%26hide_border%3Dtrue" height="150" alt="Linguagens mais usadas"/>
-<img src="https://www.google.com/search?q=https://streak-stats.demolab.com%3Fuser%3DRaphaelStinson%26locale%3Dpt-br%26mode%3Ddaily%26theme%3Ddark%26hide_border%3Dtrue%26border_radius%3D5" height="150" alt="Sequência de Contribuições"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=RaphaelStinson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="135" alt="stats graph"  />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaphaelStinson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="145" alt="languages graph"  />
+
+<img src="https://streak-stats.demolab.com?user=RaphaelStinson&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+</div>
 
 👨‍💻 Gráfico de Contribuições
 <!-- Centralizar o gráfico de atividades para consistência visual -->
