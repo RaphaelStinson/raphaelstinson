@@ -11,11 +11,11 @@
 <!-- Agrupar as imagens em um parágrafo centralizado melhora o alinhamento em diferentes tamanhos de tela -->
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RaphaelStinson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="135" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=RaphaelStinson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="135" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaphaelStinson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="145" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=RaphaelStinson&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaphaelStinson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="145" alt="languages graph"  />
-
-<img src="https://streak-stats.demolab.com?user=RaphaelStinson&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 
 </div>
 
