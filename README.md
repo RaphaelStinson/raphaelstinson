@@ -20,8 +20,7 @@
 <!-- Centralizar o gráfico de atividades para consistência visual -->
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DRaphaelStinson%26bg_color%3D0d1117%26color%3Dffffff%26line%3D0891b2%26point%3Dffffff%26area%3Dtrue%26hide_border%3Dtrue" height="300" alt="Gráfico de atividades"/>
-</p>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaphaelStinson&radius=16&theme=lucent&area=true&order=5&bg_color=0&color=129876" height="300" alt="activity-graph graph"  /></div>
 
 <!-- A imagem final pode servir como um rodapé ou divisor, também centralizada -->
 
